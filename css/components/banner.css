@@ -1,0 +1,17 @@
+.banner {
+    background-color: #333; /* Une couleur de fond pour vérifier */
+    color: blue;
+    padding: 150px 0;
+}
+
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size:30px ;
+	font-weight:lighter ;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}

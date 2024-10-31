@@ -1,0 +1,15 @@
+.btn-blue {
+    color: white;
+    background-color: #6D71DD;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none; /* Pour supprimer le soulignement */
+    display: inline-block; /* Pour donner l'apparence d'un bouton */
+}
+
+.btn-blue:hover {
+    background-color: black;
+    color: white;
+}
